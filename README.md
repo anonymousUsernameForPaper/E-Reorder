@@ -27,6 +27,10 @@ or
 ```
 ./target/release/cgp.exe
 ```
+
+Outputs will be placed into a folder called
+`Experiments_Output`
+
 You can configure the run via following command line arguments:
 - `run-id`
   - The ID of the run
